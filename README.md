@@ -29,6 +29,12 @@ The idea of Personally Identifiable Brains (PIB) is for collecting brain imaging
   - ...
 - For more publications using this dataset please see the folder Publications.
 
+### [Colin Holmes]
+- [Data](http://www.bic.mni.mcgill.ca/ServicesAtlases/Colin27)
+- Colin 27, also known as "Average Colin", A brain atlas standard; one high-quality average from 27 10-minute scans from a 28-year-old graduate student at the Montreal Neurological Institute
+- Reference:
+  - ...
+- For more publications using this dataset please see the folder Publications.
 
 ### [Xiangzhen Kong](http://www.mpi.nl/people/kong-xiangzhen)
 - [Data](https://doi.org/10.6084/m9.figshare.5131771.v1)
