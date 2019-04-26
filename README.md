@@ -42,3 +42,10 @@ The idea of Personally Identifiable Brains (PIB) is for collecting brain imaging
 - Reference:
   - ...
 - For more about this data please see the folder people.
+
+### Marlene Tahedl
+- [Data](https://osf.io/9wjy4/)
+- T1, DMRI
+- See more in the Tutorial pdf file. 
+
+
