@@ -48,4 +48,8 @@ The idea of Personally Identifiable Brains (PIB) is for collecting brain imaging
 - T1, DMRI
 - See more in the Tutorial pdf file. 
 
+### Xu Cui
+- [Link](https://alivelearn.net/?p=358)
+- T1
+
 
